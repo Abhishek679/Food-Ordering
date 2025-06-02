@@ -5,7 +5,6 @@
 
 
 # Food App
-/**
  * Header
  * - Logo
  * - Nav bar
@@ -21,8 +20,6 @@
  *  - Links
  *  - Address
  *  - Contact
- * 
- */
 
 
  # Two type of import/export

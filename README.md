@@ -13,8 +13,8 @@
  * Body
  * - Search
  * - Card
- * - RestorantCatainers
- *  - RestorantCard
+ * - RestaurantCatainers
+ * - RestaurantCard
  * 
  * Footer
  *  - Copyright
@@ -40,6 +40,8 @@
  - Client side routing
  - Server side routing
 
+# Context API
+- Implement Context apis for manage login throughout the application
 
  # Redux toolkit
  - Install @redexjs/toolkit and react-redux
